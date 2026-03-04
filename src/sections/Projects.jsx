@@ -9,7 +9,7 @@ const projects = [
         image : "/projects/lynkedu.png",
         tags: ["ReactJS", "Spring Boot", "PostgreSQL"],
         link: "#",
-        github: "#"
+        github: "https://github.com/binta1112/LynkEdu-backend"
     },
     {
         title : "EVMap",
@@ -17,7 +17,7 @@ const projects = [
         image : "/projects/evmap.png",
         tags: ["ReactJS", "Mapbox", "Spring Boot", "PostgreSQL", "Kafka"],
         link: "#",
-        github: "#"
+        github: "https://github.com/Salah1779/EVmap/tree/master"
     },
     {
         title : "E-commerce Peluches",
