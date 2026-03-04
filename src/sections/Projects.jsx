@@ -128,7 +128,9 @@ export const Projects = () => {
                <div className="text-center mt-12 animate-fade-in animation-delay-500">
                  <AnimatedBorderButton>
                     <ArrowUpRight className="w-5 h-5" />
-                    View All Projects
+                    <a href="https://github.com/binta1112">
+                        View All Projects
+                    </a>
                 </AnimatedBorderButton>
                </div>
             </div>
