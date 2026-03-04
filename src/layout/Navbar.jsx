@@ -64,7 +64,7 @@ export const Navbar = () => {
                     <Button size="sm"
                     onClick={()=> setIsMobileMenuOpen(false)}
                     >
-                        Contact Me
+                       <a href="#contact" className=""> Contact Me </a> 
                     </Button>
                 </div>
             </div>
