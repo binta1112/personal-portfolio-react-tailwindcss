@@ -9,7 +9,7 @@ const projects = [
         image : "/projects/lynkedu.png",
         tags: ["ReactJS", "Spring Boot", "PostgreSQL"],
         link: "#",
-        github: "https://github.com/binta1112/LynkEdu-backend"
+        github: "https://github.com/binta1112/LynkEdu"
     },
     {
         title : "EVMap",
