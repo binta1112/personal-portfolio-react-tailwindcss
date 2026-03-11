@@ -89,7 +89,7 @@ export const Hero = () => {
                             <AnimatedBorderButton >
                                 <Download className="w-5 h-5 " />
                                     <a 
-                                    href="/cv/binta_traore_cv.pdf" 
+                                    href="/binta_traore_cv_en (3).pdf" 
                                     target="_blank" 
                                     rel="noopener noreferrer"                                    
                                     download="Binta-Traore-CV.pdf"
